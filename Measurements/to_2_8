@@ -1,0 +1,50 @@
+1 arriving.
+0 waking up 1
+Barrier 1 achieved by process 1.
+Process 1 = 0:490
+Barrier 1 achieved by process 0.
+1 arriving.
+Process 0 = 0:502
+0 waking up 1
+Barrier 2 achieved by process 0.
+Barrier 2 achieved by process 1.
+Process 1 = 0:159
+1 arriving.
+Process 0 = 0:72
+0 waking up 1
+Barrier 3 achieved by process 0.
+Barrier 3 achieved by process 1.
+Process 1 = 0:110
+Process 0 = 0:93
+1 arriving.
+0 waking up 1
+Barrier 4 achieved by process 0.
+Barrier 4 achieved by process 1.
+Process 1 = 0:112
+Process 0 = 0:74
+1 arriving.
+0 waking up 1
+Barrier 5 achieved by process 0.
+Process 0 = 0:95
+Barrier 5 achieved by process 1.
+Process 1 = 0:112
+0 waking up 1
+1 arriving.
+Barrier 6 achieved by process 0.
+Process 0 = 0:103
+Barrier 6 achieved by process 1.
+Process 1 = 0:113
+1 arriving.
+0 waking up 1
+Barrier 7 achieved by process 0.
+Process 0 = 0:93
+Barrier 7 achieved by process 1.
+Process 1 = 0:126
+1 arriving.
+0 waking up 1
+Barrier 8 achieved by process 0.
+Barrier 8 achieved by process 1.
+Process 1 = 0:115
+Process 0 = 0:86
+Total for 8 barriers for Process 1 = 0:1389
+Total for 8 barriers for Process 0 = 0:1365

@@ -1,0 +1,536 @@
+3 arriving.
+1 arriving.
+7 arriving.
+15 arriving.
+31 arriving.
+19 arriving.
+5 arriving.
+11 arriving.
+17 arriving.
+13 arriving.
+27 arriving.
+23 arriving.
+2 arriving.
+9 arriving.
+21 arriving.
+29 arriving.
+6 arriving.
+14 arriving.
+10 arriving.
+4 arriving.
+12 arriving.
+8 arriving.
+18 arriving.
+22 arriving.
+26 arriving.
+28 arriving.
+25 arriving.
+20 arriving.
+30 arriving.
+16 arriving.
+0 waking up 16
+0 waking up 8
+0 waking up 4
+16 waking up 24
+16 waking up 20
+16 waking up 18
+Barrier 1 achieved by process 1.
+0 waking up 2
+2 waking up 3
+Barrier 1 achieved by process 2.
+Process 2 = 0:6503
+Barrier 1 achieved by process 5.
+Process 5 = 0:6540
+4 waking up 6
+Barrier 1 achieved by process 3.
+Process 3 = 0:6681
+6 waking up 7
+Barrier 1 achieved by process 6.
+Barrier 1 achieved by process 7.
+Process 7 = 0:6688
+12 waking up 14
+Barrier 1 achieved by process 9.
+Process 9 = 0:6543
+14 waking up 15
+Barrier 1 achieved by process 14.
+16 waking up 17
+Barrier 1 achieved by process 16.
+Process 16 = 0:6375
+10 waking up 11
+Barrier 1 achieved by process 10.
+8 waking up 12
+Barrier 1 achieved by process 21.
+Process 21 = 0:6313
+Barrier 1 achieved by process 13.
+Process 13 = 0:6505
+20 waking up 22
+18 waking up 19
+Barrier 1 achieved by process 18.
+Barrier 1 achieved by process 15.
+Barrier 1 achieved by process 11.
+Process 11 = 0:6573
+Barrier 1 achieved by process 17.
+Barrier 1 achieved by process 19.
+Process 19 = 0:6535
+Barrier 1 achieved by process 29.
+Process 29 = 0:6417
+Barrier 1 achieved by process 31.
+Process 31 = 0:6698
+22 waking up 23
+28 waking up 30
+30 waking up 31
+Barrier 1 achieved by process 30.
+Barrier 1 achieved by process 27.
+Process 27 = 0:6436
+26 waking up 27
+Barrier 1 achieved by process 25.
+Process 25 = 0:6317
+Barrier 1 achieved by process 23.
+Process 23 = 0:6444
+Process 1 = 0:6615
+0 waking up 1
+2 arriving.
+5 arriving.
+4 waking up 5
+Barrier 1 achieved by process 4.
+Process 4 = 0:6493
+3 arriving.
+Process 6 = 0:6510
+7 arriving.
+12 waking up 13
+Barrier 1 achieved by process 12.
+Process 12 = 0:6432
+9 arriving.
+Process 14 = 0:6438
+Process 10 = 0:6450
+8 waking up 10
+8 waking up 9
+Barrier 1 achieved by process 8.
+Process 8 = 0:6489
+21 arriving.
+13 arriving.
+20 waking up 21
+Barrier 1 achieved by process 20.
+Process 20 = 0:6277
+Process 18 = 0:6357
+Process 15 = 0:6733
+11 arriving.
+Process 17 = 0:6499
+19 arriving.
+29 arriving.
+31 arriving.
+Barrier 1 achieved by process 22.
+28 waking up 29
+Barrier 1 achieved by process 28.
+Process 28 = 0:6220
+Process 30 = 0:6144
+27 arriving.
+Barrier 1 achieved by process 26.
+25 arriving.
+23 arriving.
+1 arriving.
+Barrier 1 achieved by process 0.
+2 waking up 3
+Barrier 2 achieved by process 2.
+Process 2 = 0:743
+Barrier 2 achieved by process 5.
+Process 5 = 0:741
+4 arriving.
+Barrier 2 achieved by process 3.
+Process 3 = 0:737
+6 arriving.
+Barrier 2 achieved by process 7.
+Process 7 = 0:740
+12 arriving.
+Barrier 2 achieved by process 9.
+Process 9 = 0:723
+14 arriving.
+16 arriving.
+10 arriving.
+8 arriving.
+Barrier 2 achieved by process 21.
+Process 21 = 0:808
+Barrier 2 achieved by process 13.
+Process 13 = 0:726
+20 arriving.
+18 arriving.
+15 arriving.
+Barrier 2 achieved by process 11.
+Process 11 = 0:720
+17 arriving.
+Barrier 2 achieved by process 19.
+Process 19 = 0:810
+Barrier 2 achieved by process 29.
+Process 29 = 0:815
+Barrier 2 achieved by process 31.
+Process 31 = 0:814
+Process 22 = 0:6316
+24 arriving.
+24 waking up 28
+24 waking up 26
+24 waking up 25
+Barrier 1 achieved by process 24.
+Process 24 = 0:6277
+24 arriving.
+28 arriving.
+30 arriving.
+Barrier 2 achieved by process 27.
+Process 27 = 0:809
+Process 26 = 0:6255
+Barrier 2 achieved by process 25.
+Process 25 = 0:812
+Barrier 2 achieved by process 23.
+Process 23 = 0:808
+Barrier 2 achieved by process 1.
+Process 0 = 0:6520
+2 arriving.
+5 arriving.
+4 waking up 6
+3 arriving.
+6 waking up 7
+Barrier 2 achieved by process 6.
+7 arriving.
+12 waking up 14
+9 arriving.
+14 waking up 15
+Barrier 2 achieved by process 14.
+16 waking up 24
+10 waking up 11
+Barrier 2 achieved by process 10.
+8 waking up 12
+21 arriving.
+13 arriving.
+20 waking up 22
+18 waking up 19
+Barrier 2 achieved by process 18.
+Barrier 2 achieved by process 15.
+11 arriving.
+Barrier 2 achieved by process 17.
+19 arriving.
+29 arriving.
+31 arriving.
+22 arriving.
+24 waking up 28
+24 waking up 26
+28 waking up 30
+30 waking up 31
+Barrier 2 achieved by process 30.
+27 arriving.
+26 arriving.
+25 arriving.
+23 arriving.
+Process 1 = 0:708
+0 waking up 16
+2 waking up 3
+Barrier 3 achieved by process 2.
+Process 2 = 0:808
+Barrier 3 achieved by process 5.
+Process 5 = 0:791
+4 waking up 5
+Barrier 2 achieved by process 4.
+Process 4 = 0:750
+Barrier 3 achieved by process 3.
+Process 3 = 0:810
+Process 6 = 0:741
+Barrier 3 achieved by process 7.
+Process 7 = 0:800
+12 waking up 13
+Barrier 2 achieved by process 12.
+Process 12 = 0:741
+Barrier 3 achieved by process 9.
+Process 9 = 0:815
+Process 14 = 0:724
+16 waking up 20
+16 waking up 18
+16 waking up 17
+Process 10 = 0:722
+8 waking up 10
+8 waking up 9
+Barrier 2 achieved by process 8.
+Process 8 = 0:733
+Barrier 3 achieved by process 21.
+Process 21 = 0:805
+Barrier 3 achieved by process 13.
+Process 13 = 0:813
+20 waking up 21
+Barrier 2 achieved by process 20.
+Process 20 = 0:812
+Process 18 = 0:815
+Process 15 = 0:701
+Barrier 3 achieved by process 11.
+Process 11 = 0:820
+Process 17 = 0:777
+Barrier 3 achieved by process 19.
+Process 19 = 0:803
+Barrier 3 achieved by process 29.
+Process 29 = 0:796
+Barrier 3 achieved by process 31.
+Process 31 = 0:796
+22 waking up 23
+24 waking up 25
+Barrier 2 achieved by process 24.
+Process 24 = 0:822
+28 waking up 29
+Barrier 2 achieved by process 28.
+Process 28 = 0:826
+Process 30 = 0:812
+Barrier 3 achieved by process 27.
+Process 27 = 0:810
+26 waking up 27
+Barrier 3 achieved by process 25.
+Process 25 = 0:809
+Barrier 3 achieved by process 23.
+Process 23 = 0:806
+1 arriving.
+0 waking up 8
+2 arriving.
+5 arriving.
+4 arriving.
+3 arriving.
+6 arriving.
+7 arriving.
+12 arriving.
+9 arriving.
+14 arriving.
+Barrier 2 achieved by process 16.
+Process 16 = 0:828
+10 arriving.
+8 arriving.
+21 arriving.
+13 arriving.
+20 arriving.
+18 arriving.
+15 arriving.
+11 arriving.
+17 arriving.
+19 arriving.
+29 arriving.
+31 arriving.
+Barrier 2 achieved by process 22.
+24 arriving.
+28 arriving.
+30 arriving.
+27 arriving.
+Barrier 2 achieved by process 26.
+25 arriving.
+23 arriving.
+Barrier 3 achieved by process 1.
+0 waking up 4
+2 waking up 3
+Barrier 4 achieved by process 2.
+Process 2 = 0:764
+Barrier 4 achieved by process 5.
+Process 5 = 0:786
+4 waking up 6
+Barrier 4 achieved by process 3.
+Process 3 = 0:766
+6 waking up 7
+Barrier 3 achieved by process 6.
+Process 6 = 0:791
+Barrier 4 achieved by process 7.
+Process 7 = 0:782
+12 waking up 14
+Barrier 4 achieved by process 9.
+Process 9 = 0:762
+14 waking up 15
+Barrier 3 achieved by process 14.
+16 arriving.
+10 waking up 11
+Barrier 3 achieved by process 10.
+Process 10 = 0:813
+8 waking up 12
+Barrier 4 achieved by process 21.
+Process 21 = 0:785
+Barrier 4 achieved by process 13.
+Process 13 = 0:763
+20 waking up 22
+18 waking up 19
+Barrier 3 achieved by process 18.
+Barrier 3 achieved by process 15.
+Barrier 4 achieved by process 11.
+Process 11 = 0:760
+Barrier 3 achieved by process 17.
+Barrier 4 achieved by process 19.
+Process 19 = 0:785
+Barrier 4 achieved by process 29.
+Process 29 = 0:785
+Barrier 4 achieved by process 31.
+Process 31 = 0:784
+Process 22 = 0:779
+24 waking up 28
+28 waking up 30
+30 waking up 31
+Barrier 3 achieved by process 30.
+Barrier 4 achieved by process 27.
+Process 27 = 0:778
+Process 26 = 0:783
+Barrier 4 achieved by process 25.
+Process 25 = 0:782
+Barrier 4 achieved by process 23.
+Process 23 = 0:786
+Process 1 = 0:790
+0 waking up 2
+Total for 4 barriers for Process 2 = 0:8869
+Total for 4 barriers for Process 5 = 0:8904
+4 waking up 5
+Barrier 3 achieved by process 4.
+Process 4 = 0:800
+Total for 4 barriers for Process 3 = 0:9036
+6 arriving.
+Total for 4 barriers for Process 7 = 0:9049
+12 waking up 13
+Barrier 3 achieved by process 12.
+Process 12 = 0:816
+Total for 4 barriers for Process 9 = 0:8882
+Process 14 = 0:809
+16 waking up 24
+10 arriving.
+8 waking up 10
+8 waking up 9
+Barrier 3 achieved by process 8.
+Process 8 = 0:819
+Total for 4 barriers for Process 21 = 0:8752
+Total for 4 barriers for Process 13 = 0:8849
+20 waking up 21
+Barrier 3 achieved by process 20.
+Process 20 = 0:808
+Process 18 = 0:795
+Process 15 = 0:792
+Total for 4 barriers for Process 11 = 0:8916
+Process 17 = 0:782
+Total for 4 barriers for Process 19 = 0:8975
+Total for 4 barriers for Process 29 = 0:8856
+Total for 4 barriers for Process 31 = 0:9135
+22 arriving.
+24 waking up 26
+24 waking up 25
+28 waking up 29
+Barrier 3 achieved by process 28.
+Process 28 = 0:800
+Process 30 = 0:795
+Total for 4 barriers for Process 27 = 0:8875
+26 arriving.
+Total for 4 barriers for Process 23 = 0:8885
+1 arriving.
+0 waking up 1
+4 arriving.
+6 waking up 7
+Barrier 4 achieved by process 6.
+Process 6 = 0:779
+12 arriving.
+14 arriving.
+16 waking up 20
+16 waking up 18
+16 waking up 17
+10 waking up 11
+Barrier 4 achieved by process 10.
+8 arriving.
+20 arriving.
+18 arriving.
+15 arriving.
+17 arriving.
+22 waking up 23
+Barrier 3 achieved by process 24.
+Process 24 = 0:824
+28 arriving.
+30 arriving.
+26 waking up 27
+Total for 4 barriers for Process 25 = 0:8758
+Barrier 4 achieved by process 1.
+Barrier 2 achieved by process 0.
+4 waking up 6
+Total for 4 barriers for Process 6 = 0:8883
+12 waking up 14
+14 waking up 15
+Barrier 4 achieved by process 14.
+Barrier 3 achieved by process 16.
+Process 16 = 0:797
+Process 10 = 0:758
+Total for 4 barriers for Process 10 = 0:8807
+8 waking up 12
+20 waking up 22
+18 waking up 19
+Barrier 4 achieved by process 18.
+Barrier 4 achieved by process 15.
+Barrier 4 achieved by process 17.
+Barrier 3 achieved by process 22.
+24 arriving.
+28 waking up 30
+30 waking up 31
+Barrier 4 achieved by process 30.
+Barrier 3 achieved by process 26.
+Process 1 = 0:752
+Process 0 = 0:706
+4 waking up 5
+Barrier 4 achieved by process 4.
+Process 4 = 0:783
+Total for 4 barriers for Process 4 = 0:8863
+12 waking up 13
+Barrier 4 achieved by process 12.
+Process 12 = 0:761
+Total for 4 barriers for Process 12 = 0:8790
+Process 14 = 0:759
+Total for 4 barriers for Process 14 = 0:8798
+16 arriving.
+8 waking up 10
+8 waking up 9
+20 waking up 21
+Barrier 4 achieved by process 20.
+Process 20 = 0:786
+Total for 4 barriers for Process 20 = 0:8721
+Process 18 = 0:779
+Total for 4 barriers for Process 18 = 0:8812
+Process 15 = 0:750
+Process 17 = 0:780
+Process 22 = 0:797
+24 waking up 28
+28 waking up 29
+Barrier 4 achieved by process 28.
+Process 28 = 0:784
+Total for 4 barriers for Process 28 = 0:8668
+Process 30 = 0:781
+Total for 4 barriers for Process 30 = 0:8595
+Process 26 = 0:800
+Total for 4 barriers for Process 1 = 0:8987
+0 waking up 16
+16 waking up 24
+Barrier 4 achieved by process 8.
+Process 8 = 0:779
+Total for 4 barriers for Process 8 = 0:8859
+Total for 4 barriers for Process 15 = 0:9087
+22 arriving.
+24 waking up 26
+24 waking up 25
+26 arriving.
+0 waking up 8
+16 waking up 20
+16 waking up 18
+Total for 4 barriers for Process 17 = 0:8956
+22 waking up 23
+Barrier 4 achieved by process 24.
+Process 24 = 0:778
+Total for 4 barriers for Process 24 = 0:8739
+26 waking up 27
+0 waking up 4
+16 waking up 17
+Barrier 4 achieved by process 16.
+Process 16 = 0:791
+Barrier 4 achieved by process 26.
+0 waking up 2
+Total for 4 barriers for Process 16 = 0:8831
+0 waking up 1
+Barrier 4 achieved by process 22.
+Barrier 3 achieved by process 0.
+Process 22 = 0:764
+Process 0 = 0:797
+Total for 4 barriers for Process 22 = 0:8776
+Process 26 = 0:760
+0 waking up 16
+Total for 4 barriers for Process 26 = 0:8717
+0 waking up 8
+0 waking up 4
+0 waking up 2
+0 waking up 1
+Barrier 4 achieved by process 0.
+Process 0 = 0:754
+Total for 4 barriers for Process 0 = 0:8909

@@ -1,0 +1,268 @@
+Process 15 arrived.
+Process 7 arrived.
+Process 5 arrived.
+Process 9 arrived.
+Process 6 arrived.
+Process 4 arrived.
+Process 12 arrived.
+Process 10 arrived.
+Process 11 arrived.
+Process 13 arrived.
+Process 8 arrived.
+Process 14 arrived.
+Process 1 arrived.
+Process 2 arrived.
+Process 0 arrived.
+Process 0 reached barrier 1.
+Process 0 = 0:1357
+Process 0 waking up process 1.
+Process 0 waking up process 2.
+Process 3 arrived.
+Process 1 waking up process 3.
+Process 2 waking up process 5.
+Process 1 reached barrier 1.
+Process 1 = 0:2199
+Process 1 waking up process 4.
+Process 3 waking up process 7.
+Process 5 waking up process 11.
+Process 2 reached barrier 1.
+Process 11 reached barrier 1.
+Process 2 = 0:2348
+Process 11 = 0:2294
+Process 2 waking up process 6.
+Process 5 reached barrier 1.
+Process 5 = 0:2470
+Process 4 waking up process 9.
+Process 3 reached barrier 1.
+Process 3 = 0:2746
+Process 5 arrived.
+Process 9 reached barrier 1.
+Process 7 reached barrier 1.
+Process 7 = 0:2600
+Process 5 waking up process 12.
+Process 12 reached barrier 1.
+Process 7 waking up process 15.
+Process 11 arrived.
+Process 9 = 0:2544
+Process 7 arrived.
+Process 12 = 0:2422
+Process 12 arrived.
+Process 15 reached barrier 1.
+Process 9 arrived.
+Process 4 reached barrier 1.
+Process 4 = 0:2706
+Process 4 waking up process 10.
+Process 10 reached barrier 1.
+Process 6 waking up process 13.
+Process 13 reached barrier 1.
+Process 3 waking up process 8.
+Process 8 reached barrier 1.
+Process 4 arrived.
+Process 10 = 0:2659
+Process 13 = 0:2643
+Process 13 arrived.
+Process 2 arrived.
+Process 8 = 0:2720
+Process 6 reached barrier 1.
+Process 6 = 0:2867
+Process 15 = 0:2696
+Process 10 arrived.
+Process 8 arrived.
+Process 1 arrived.
+Process 6 arrived.
+Process 6 waking up process 14.
+Process 14 reached barrier 1.
+Process 15 arrived.
+Process 3 arrived.
+Process 14 = 0:2801
+Process 0 arrived.
+Process 14 arrived.
+Process 0 waking up process 1.
+Process 0 reached barrier 2.
+Process 0 = 0:1920
+Process 0 waking up process 2.
+Process 1 reached barrier 2.
+Process 1 waking up process 3.
+Process 2 reached barrier 2.
+Process 3 reached barrier 2.
+Process 3 = 0:706
+Process 2 = 0:928
+Process 1 = 0:1173
+Process 2 waking up process 5.
+Process 2 waking up process 6.
+Process 1 waking up process 4.
+Process 6 waking up process 14.
+Process 14 reached barrier 2.
+Process 4 waking up process 10.
+Process 10 reached barrier 2.
+Process 5 waking up process 11.
+Process 6 waking up process 13.
+Process 13 reached barrier 2.
+Process 3 waking up process 8.
+Process 8 reached barrier 2.
+Process 5 reached barrier 2.
+Process 5 = 0:880
+Process 4 waking up process 9.
+Process 3 waking up process 7.
+Process 6 reached barrier 2.
+Process 6 = 0:468
+Process 4 reached barrier 2.
+Process 4 = 0:665
+Process 5 waking up process 12.
+Process 12 reached barrier 2.
+Process 14 = 0:463
+Process 7 waking up process 15.
+Process 10 = 0:661
+Process 11 reached barrier 2.
+Process 13 = 0:718
+Process 13 arrived.
+Process 2 arrived.
+Process 8 = 0:707
+Process 3 arrived.
+Process 0 arrived.
+Process 5 arrived.
+Process 9 reached barrier 2.
+Process 7 reached barrier 2.
+Process 7 = 0:908
+Process 6 arrived.
+Process 4 arrived.
+Process 12 = 0:884
+Process 14 arrived.
+Process 15 reached barrier 2.
+Process 10 arrived.
+Process 11 = 0:1106
+Process 8 arrived.
+Process 1 waking up process 3.
+Process 0 reached barrier 3.
+Process 0 = 0:562
+Process 9 = 0:891
+Process 7 arrived.
+Process 12 arrived.
+Process 15 = 0:891
+Process 0 waking up process 2.
+Process 3 reached barrier 3.
+Process 3 = 0:535
+Process 2 waking up process 5.
+Process 9 arrived.
+Process 2 waking up process 6.
+Process 1 waking up process 4.
+Process 6 waking up process 14.
+Process 14 reached barrier 3.
+Process 4 waking up process 10.
+Process 10 reached barrier 3.
+Process 11 arrived.
+Process 6 waking up process 13.
+Process 13 reached barrier 3.
+Process 2 reached barrier 3.
+Process 3 waking up process 8.
+Process 8 reached barrier 3.
+Process 1 arrived.
+Process 3 arrived.
+Process 0 arrived.
+Process 5 reached barrier 3.
+Process 5 = 0:584
+Process 5 arrived.
+Process 3 waking up process 7.
+Process 6 reached barrier 3.
+Process 6 = 0:562
+Process 4 reached barrier 3.
+Process 4 = 0:531
+Process 5 waking up process 12.
+Process 12 reached barrier 3.
+Process 14 = 0:552
+Process 14 arrived.
+Process 15 arrived.
+Process 10 = 0:520
+Process 10 arrived.
+Process 5 waking up process 11.
+Process 13 = 0:547
+Process 2 = 0:545
+Process 8 = 0:524
+Process 8 arrived.
+Process 0 waking up process 1.
+Process 1 reached barrier 3.
+Process 1 = 0:491
+Process 1 arrived.
+Process 0 waking up process 1.
+Process 1 reached barrier 4.
+Process 1 = 0:508
+Total for 4 barriers for Process 1 = 0:4438
+Process 1 waking up process 3.
+Process 0 reached barrier 4.
+Process 0 = 0:510
+Total for 4 barriers for Process 0 = 0:4369
+Process 2 waking up process 5.
+Process 4 waking up process 9.
+Process 7 reached barrier 3.
+Process 7 = 0:530
+Process 6 arrived.
+Process 4 arrived.
+Process 12 = 0:569
+Process 6 waking up process 14.
+Process 14 reached barrier 4.
+Process 7 waking up process 15.
+Process 4 waking up process 10.
+Process 10 reached barrier 4.
+Process 10 = 0:505
+Process 11 reached barrier 3.
+Process 13 arrived.
+Process 2 arrived.
+Process 3 waking up process 8.
+Process 8 reached barrier 4.
+Process 8 = 0:509
+Process 3 reached barrier 4.
+Process 3 = 0:506
+Process 5 reached barrier 4.
+Process 5 = 0:498
+Total for 4 barriers for Process 5 = 0:4459
+Process 9 reached barrier 3.
+Process 7 arrived.
+Process 2 waking up process 6.
+Process 1 waking up process 4.
+Process 12 arrived.
+Process 14 = 0:499
+Total for 4 barriers for Process 14 = 0:4369
+Process 15 reached barrier 3.
+Total for 4 barriers for Process 10 = 0:4393
+Process 11 = 0:548
+Process 0 waking up process 2.
+Total for 4 barriers for Process 8 = 0:4509
+Total for 4 barriers for Process 3 = 0:4525
+Process 9 = 0:498
+Process 3 waking up process 7.
+Process 6 reached barrier 4.
+Process 6 = 0:494
+Total for 4 barriers for Process 6 = 0:4420
+Process 4 reached barrier 4.
+Process 4 = 0:507
+Total for 4 barriers for Process 4 = 0:4441
+Process 5 waking up process 12.
+Process 12 reached barrier 4.
+Process 15 = 0:498
+Process 11 arrived.
+Process 6 waking up process 13.
+Process 13 reached barrier 4.
+Process 2 reached barrier 4.
+Process 9 arrived.
+Process 7 reached barrier 4.
+Process 7 = 0:521
+Total for 4 barriers for Process 7 = 0:4583
+Process 12 = 0:496
+Total for 4 barriers for Process 12 = 0:4421
+Process 15 arrived.
+Process 5 waking up process 11.
+Process 13 = 0:498
+Total for 4 barriers for Process 13 = 0:4452
+Process 2 = 0:467
+Process 4 waking up process 9.
+Process 7 waking up process 15.
+Process 11 reached barrier 4.
+Total for 4 barriers for Process 2 = 0:4405
+Process 9 reached barrier 4.
+Process 15 reached barrier 4.
+Process 11 = 0:473
+Process 9 = 0:503
+Process 15 = 0:516
+Total for 4 barriers for Process 11 = 0:4551
+Total for 4 barriers for Process 9 = 0:4547
+Total for 4 barriers for Process 15 = 0:4700

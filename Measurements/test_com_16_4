@@ -1,0 +1,780 @@
+thread 0 => Hello World 
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 1
+thread 0 => Before Barrier pub= 0
+thread 0 => Hello World 
+thread 0 => Hello World 
+thread 0 => After Barrier final pub= 1
+thread 1 => After Barrier final pub= 1
+thread 0 => After Barrier final priv= 0
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 1
+thread 0 => Before Barrier pub= 0
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 1
+thread 1 => After Barrier final priv= 1
+thread 0 => Hello World 
+thread 0 => Hello World 
+thread 0 => After Barrier final pub= 1
+thread 1 => After Barrier final pub= 1
+thread 0 => Before Barrier pub= 0
+thread 0 => After Barrier final pub= 1
+thread 1 => After Barrier final pub= 1
+thread 0 => Hello World 
+thread 0 => Hello World 
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 1
+thread 0 => Hello World 
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 1
+thread 0 => Before Barrier pub= 0
+thread 0 => Hello World 
+thread 1 => Hello World 
+thread 0 => Hello World 
+thread 0 => Hello World 
+thread 0 => Hello World 
+thread 0 => Hello World 
+thread 1 => Hello World 
+thread 0 => Hello World 
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 1
+thread 0 => Before Barrier pub= 0
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 1
+thread 0 => Before Barrier pub= 0
+thread 0 => After Barrier final pub= 1
+thread 1 => After Barrier final pub= 1
+thread 1 => Before Barrier pub= 1
+thread 0 => Before Barrier pub= 0
+thread 0 => After Barrier final pub= 1
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 1
+thread 0 => Before Barrier pub= 0
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 1
+thread 0 => Before Barrier pub= 0
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 1
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 1
+thread 0 => Before Barrier pub= 0
+thread 1 => Before Barrier pub= 1
+thread 0 => Hello World 
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 1
+thread 0 => Before Barrier pub= 0
+thread 0 => After Barrier final pub= 1
+thread 1 => After Barrier final pub= 1
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final pub= 1
+thread 1 => After Barrier final pub= 1
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final pub= 1
+thread 1 => After Barrier final pub= 1
+thread 0 => After Barrier final priv= 0
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 1
+thread 0 => Before Barrier pub= 0
+thread 0 => After Barrier final priv= 0
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+thread 1 => After Barrier final pub= 1
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final pub= 1
+thread 1 => After Barrier final pub= 1
+thread 1 => After Barrier final priv= 1
+thread 0 => Before Barrier pub= 0
+thread 0 => After Barrier final pub= 1
+thread 1 => After Barrier final pub= 1
+thread 0 => After Barrier final pub= 1
+thread 1 => After Barrier final pub= 1
+thread 0 => After Barrier final priv= 0
+thread 0 => Before Barrier pub= 0
+thread 0 => After Barrier final pub= 1
+thread 1 => After Barrier final pub= 1
+Process 4 arrived.
+Process 5 arrived.
+Process 11 arrived.
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final priv= 0
+Process 6 arrived.
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final pub= 1
+thread 0 => After Barrier final pub= 1
+thread 1 => After Barrier final pub= 1
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 8 arrived.
+Process 13 arrived.
+Process 10 arrived.
+thread 1 => After Barrier final pub= 1
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 12 arrived.
+Process 1 arrived.
+Process 2 arrived.
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final priv= 0
+Process 15 arrived.
+Process 14 arrived.
+thread 0 => Before Barrier pub= 0
+thread 0 => After Barrier final pub= 1
+thread 1 => After Barrier final pub= 1
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 9 arrived.
+thread 0 => Hello World 
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 1
+thread 0 => Before Barrier pub= 0
+thread 0 => After Barrier final pub= 1
+thread 1 => After Barrier final pub= 1
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final priv= 0
+Process 7 arrived.
+Process 3 arrived.
+Process 0 arrived.
+Process 0 waking up process 1.
+Process 0 reached barrier 1.
+Process 0 = 0:2489
+Process 0 waking up process 2.
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 2
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+thread 0 => After Barrier final pub= 2
+thread 1 => After Barrier final pub= 2
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 1 waking up process 3.
+Process 3 waking up process 7.
+Process 7 reached barrier 1.
+Process 7 = 0:3704
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 2
+Process 7 waking up process 15.
+Process 1 reached barrier 1.
+Process 1 = 0:3908
+Process 3 reached barrier 1.
+Process 3 = 0:3961
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+thread 0 => After Barrier final pub= 2
+Process 15 reached barrier 1.
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 1
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 2
+thread 0 => Hello World 
+Process 15 = 0:3828
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 2
+thread 0 => After Barrier final pub= 2
+thread 0 => Before Barrier pub= 2
+thread 0 => After Barrier final pub= 2
+thread 1 => After Barrier final pub= 2
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 2
+thread 1 => After Barrier final pub= 2
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final priv= 0
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 1 waking up process 4.
+Process 3 waking up process 8.
+Process 8 reached barrier 1.
+Process 8 = 0:3888
+thread 1 => Hello World 
+thread 1 => After Barrier final pub= 2
+thread 1 => After Barrier final priv= 1
+thread 1 => Before Barrier pub= 2
+thread 0 => Hello World 
+thread 0 => After Barrier final priv= 0
+thread 0 => Before Barrier pub= 2
+thread 0 => After Barrier final pub= 2
+Process 7 arrived.
+thread 0 => Hello World 
+thread 1 => After Barrier final pub= 2
+thread 0 => After Barrier final priv= 0
+thread 0 => Before Barrier pub= 2
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final pub= 2
+Process 8 arrived.
+thread 1 => After Barrier final pub= 2
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final priv= 0
+Process 15 arrived.
+Process 2 waking up process 5.
+Process 2 reached barrier 1.
+Process 2 = 0:5475
+Process 4 waking up process 9.
+Process 9 reached barrier 1.
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 1
+thread 1 => Hello World 
+Process 9 = 0:5442
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 1
+thread 1 => Before Barrier pub= 2
+thread 0 => After Barrier final pub= 2
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 2
+thread 1 => After Barrier final pub= 2
+thread 1 => After Barrier final pub= 2
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final priv= 0
+Process 2 waking up process 6.
+thread 0 => After Barrier final pub= 2
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 9 arrived.
+Process 6 waking up process 13.
+Process 13 reached barrier 1.
+Process 13 = 0:5817
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 2
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+thread 0 => After Barrier final pub= 2
+Process 6 reached barrier 1.
+Process 6 = 0:6055
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 2
+thread 0 => Hello World 
+thread 1 => After Barrier final pub= 2
+thread 1 => After Barrier final priv= 1
+Process 6 waking up process 14.
+Process 14 reached barrier 1.
+thread 0 => Before Barrier pub= 2
+thread 0 => After Barrier final pub= 2
+thread 1 => After Barrier final pub= 2
+thread 0 => After Barrier final priv= 0
+Process 14 = 0:6004
+thread 1 => Hello World 
+Process 13 arrived.
+thread 1 => Before Barrier pub= 2
+thread 0 => Hello World 
+Process 3 arrived.
+thread 0 => Before Barrier pub= 2
+thread 0 => After Barrier final pub= 2
+thread 1 => After Barrier final pub= 2
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 4 reached barrier 1.
+Process 4 = 0:6362
+Process 6 arrived.
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 1
+Process 4 waking up process 10.
+Process 10 reached barrier 1.
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 2
+thread 0 => After Barrier final pub= 2
+Process 10 = 0:6346
+thread 1 => Hello World 
+Process 14 arrived.
+thread 1 => Before Barrier pub= 2
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+Process 5 waking up process 11.
+Process 11 reached barrier 1.
+thread 0 => After Barrier final pub= 2
+thread 1 => After Barrier final pub= 2
+thread 1 => After Barrier final pub= 2
+thread 1 => After Barrier final priv= 1
+Process 11 = 0:6593
+thread 1 => Hello World 
+thread 0 => After Barrier final priv= 0
+thread 1 => Before Barrier pub= 2
+thread 0 => Hello World 
+Process 4 arrived.
+thread 0 => Before Barrier pub= 2
+thread 0 => After Barrier final pub= 2
+thread 1 => After Barrier final pub= 2
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 10 arrived.
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 11 arrived.
+Process 5 reached barrier 1.
+Process 5 = 0:8532
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 2
+Process 5 waking up process 12.
+Process 12 reached barrier 1.
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+thread 0 => After Barrier final pub= 2
+Process 12 = 0:8503
+thread 1 => Hello World 
+Process 1 arrived.
+thread 1 => Before Barrier pub= 2
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+thread 0 => After Barrier final pub= 2
+thread 1 => After Barrier final pub= 2
+thread 1 => After Barrier final pub= 2
+thread 0 => After Barrier final priv= 0
+Process 2 arrived.
+Process 0 arrived.
+thread 1 => After Barrier final priv= 1
+Process 0 waking up process 1.
+Process 0 reached barrier 2.
+Process 0 = 0:6479
+Process 5 arrived.
+Process 0 waking up process 2.
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final priv= 0
+Process 1 reached barrier 2.
+Process 1 = 0:5153
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+thread 1 => Hello World 
+Process 1 waking up process 3.
+Process 2 reached barrier 2.
+Process 2 = 0:3471
+Process 12 arrived.
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+thread 1 => Before Barrier pub= 3
+thread 0 => After Barrier final pub= 3
+thread 1 => After Barrier final pub= 3
+Process 3 reached barrier 2.
+Process 3 = 0:5212
+Process 1 waking up process 4.
+Process 4 waking up process 9.
+Process 9 reached barrier 2.
+Process 2 waking up process 5.
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 3
+thread 1 => After Barrier final pub= 3
+Process 5 waking up process 11.
+Process 11 reached barrier 2.
+Process 11 = 0:2495
+Process 3 waking up process 8.
+Process 8 reached barrier 2.
+Process 2 waking up process 6.
+Process 3 waking up process 7.
+Process 6 waking up process 13.
+Process 13 reached barrier 2.
+Process 13 = 0:3204
+Process 4 waking up process 10.
+Process 10 reached barrier 2.
+Process 7 waking up process 15.
+Process 6 waking up process 14.
+Process 14 reached barrier 2.
+Process 5 waking up process 12.
+Process 12 reached barrier 2.
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 3
+thread 1 => After Barrier final pub= 3
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+thread 1 => Hello World 
+Process 4 reached barrier 2.
+Process 4 = 0:2675
+Process 9 = 0:3663
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+Process 5 reached barrier 2.
+Process 5 = 0:516
+thread 0 => After Barrier final pub= 3
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+thread 1 => Hello World 
+Process 8 = 0:5205
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+Process 6 reached barrier 2.
+Process 6 = 0:2947
+Process 7 reached barrier 2.
+Process 7 = 0:5455
+thread 0 => Hello World 
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+thread 1 => Hello World 
+Process 10 = 0:2673
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+Process 15 reached barrier 2.
+Process 14 = 0:2949
+thread 1 => Hello World 
+Process 12 = 0:510
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+thread 0 => After Barrier final pub= 3
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 0 arrived.
+thread 1 => Before Barrier pub= 3
+thread 0 => After Barrier final pub= 3
+thread 1 => After Barrier final pub= 3
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 3
+thread 1 => After Barrier final pub= 3
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 3
+Process 2 arrived.
+thread 1 => Before Barrier pub= 3
+thread 0 => After Barrier final pub= 3
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 3
+thread 0 => After Barrier final pub= 3
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 2
+thread 0 => Before Barrier pub= 2
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 3
+thread 1 => After Barrier final pub= 3
+thread 0 => After Barrier final pub= 3
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 3
+thread 1 => After Barrier final pub= 3
+Process 15 = 0:5442
+thread 1 => Before Barrier pub= 3
+thread 0 => Hello World 
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 3
+thread 0 => After Barrier final pub= 3
+Process 1 arrived.
+Process 0 reached barrier 3.
+Process 0 = 0:723
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 3
+thread 1 => After Barrier final pub= 3
+thread 0 => After Barrier final pub= 3
+thread 0 => After Barrier final priv= 0
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 3
+thread 0 => After Barrier final pub= 3
+Process 0 waking up process 2.
+thread 1 => After Barrier final pub= 3
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final pub= 3
+thread 1 => After Barrier final priv= 1
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 3
+thread 0 => After Barrier final pub= 3
+thread 1 => Before Barrier pub= 3
+thread 1 => After Barrier final pub= 3
+thread 0 => After Barrier final pub= 3
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final pub= 3
+thread 0 => After Barrier final priv= 0
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 3
+thread 0 => Before Barrier pub= 3
+thread 0 => After Barrier final pub= 3
+thread 1 => After Barrier final pub= 3
+thread 1 => After Barrier final priv= 1
+Process 0 waking up process 1.
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 3
+Process 3 arrived.
+thread 0 => After Barrier final pub= 3
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+thread 1 => After Barrier final priv= 1
+Process 9 arrived.
+thread 1 => After Barrier final pub= 3
+thread 0 => After Barrier final priv= 0
+Process 2 reached barrier 3.
+Process 2 = 0:725
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final pub= 3
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 13 arrived.
+thread 1 => After Barrier final priv= 1
+thread 0 => Hello World 
+thread 1 => After Barrier final pub= 3
+thread 0 => After Barrier final priv= 0
+thread 0 => After Barrier final priv= 0
+Process 1 reached barrier 3.
+Process 1 = 0:720
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 4
+Process 1 waking up process 3.
+Process 4 arrived.
+Process 4 waking up process 9.
+Process 9 reached barrier 3.
+thread 1 => After Barrier final priv= 1
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 3
+Process 11 arrived.
+Process 8 arrived.
+thread 0 => After Barrier final priv= 0
+Process 7 arrived.
+Process 6 waking up process 13.
+Process 13 reached barrier 3.
+Process 10 arrived.
+thread 0 => Before Barrier pub= 3
+thread 1 => After Barrier final priv= 1
+Process 12 arrived.
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 3
+thread 1 => After Barrier final pub= 4
+thread 0 => After Barrier final pub= 4
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 3 reached barrier 3.
+Process 3 = 0:717
+thread 0 => Hello World 
+Process 1 waking up process 4.
+Process 9 = 0:707
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 3
+Process 5 arrived.
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 4
+thread 1 => After Barrier final pub= 4
+Process 5 waking up process 11.
+Process 11 reached barrier 3.
+Process 3 waking up process 8.
+Process 8 reached barrier 3.
+Process 8 = 0:710
+Process 6 arrived.
+Process 3 waking up process 7.
+Process 13 = 0:712
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 3
+Process 4 waking up process 10.
+Process 10 reached barrier 3.
+thread 0 => After Barrier final pub= 3
+Process 14 arrived.
+Process 5 waking up process 12.
+Process 12 reached barrier 3.
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 4
+thread 1 => After Barrier final pub= 4
+Process 0 arrived.
+thread 0 => Before Barrier pub= 3
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 4
+Process 4 reached barrier 3.
+Process 4 = 0:716
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 4
+thread 1 => After Barrier final pub= 4
+Process 2 waking up process 5.
+thread 0 => After Barrier final pub= 4
+thread 0 => After Barrier final priv= 0
+Process 11 = 0:710
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 3
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 3
+thread 1 => Hello World 
+Process 2 waking up process 6.
+Process 7 reached barrier 3.
+Process 7 = 0:719
+thread 0 => Hello World 
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 4
+thread 1 => After Barrier final pub= 4
+Process 10 = 0:704
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 3
+thread 1 => After Barrier final pub= 3
+Process 6 waking up process 14.
+Process 14 reached barrier 3.
+Process 12 = 0:706
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 3
+thread 0 => After Barrier final pub= 4
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 0 reached barrier 4.
+Process 0 = 0:730
+thread 1 => After Barrier final pub= 4
+thread 0 => After Barrier final pub= 4
+thread 0 => After Barrier final priv= 0
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 3
+thread 0 => After Barrier final pub= 4
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 5 reached barrier 3.
+Process 5 = 0:718
+thread 1 => After Barrier final priv= 1
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 4
+thread 1 => After Barrier final pub= 4
+thread 1 => Before Barrier pub= 4
+thread 1 => After Barrier final pub= 4
+thread 0 => After Barrier final pub= 4
+Process 6 reached barrier 3.
+Process 6 = 0:727
+thread 0 => Before Barrier pub= 3
+thread 1 => Hello World 
+thread 0 => After Barrier final pub= 4
+thread 0 => After Barrier final priv= 0
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 4
+thread 1 => After Barrier final pub= 4
+thread 1 => After Barrier final priv= 1
+Process 14 = 0:708
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 3
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 4
+thread 1 => After Barrier final pub= 4
+Process 1 arrived.
+Total for 4 barriers for Process 0 = 0:61162
+thread 1 => After Barrier final priv= 1
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 4
+thread 1 => After Barrier final pub= 4
+Process 9 arrived.
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 3
+Process 2 arrived.
+thread 0 => After Barrier final pub= 4
+thread 0 => After Barrier final priv= 0
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 3
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 4
+thread 1 => After Barrier final pub= 4
+thread 0 => After Barrier final pub= 4
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final pub= 4
+thread 0 => After Barrier final priv= 0
+thread 0 => After Barrier final priv= 0
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 4
+thread 1 => After Barrier final pub= 4
+thread 0 => After Barrier final pub= 4
+thread 0 => After Barrier final priv= 0
+Process 0 waking up process 1.
+Process 3 arrived.
+thread 0 => After Barrier final pub= 4
+thread 0 => After Barrier final priv= 0
+Process 4 waking up process 9.
+Process 9 reached barrier 4.
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 4
+thread 1 => After Barrier final pub= 4
+Process 0 waking up process 2.
+thread 1 => After Barrier final priv= 1
+Process 8 arrived.
+thread 1 => Before Barrier pub= 4
+thread 1 => After Barrier final pub= 4
+thread 0 => After Barrier final pub= 4
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 13 arrived.
+thread 1 => After Barrier final priv= 1
+Process 15 arrived.
+thread 0 => After Barrier final pub= 4
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 1 reached barrier 4.
+Process 1 = 0:725
+Process 1 waking up process 3.
+thread 1 => After Barrier final priv= 1
+Process 9 = 0:725
+Total for 4 barriers for Process 9 = 0:57240
+thread 0 => After Barrier final pub= 4
+thread 0 => After Barrier final priv= 0
+Process 2 reached barrier 4.
+Process 2 = 0:726
+Process 11 arrived.
+Process 3 waking up process 8.
+Process 8 reached barrier 4.
+thread 0 => After Barrier final priv= 0
+thread 1 => After Barrier final priv= 1
+Process 7 arrived.
+Process 6 waking up process 13.
+Process 13 reached barrier 4.
+Process 13 = 0:724
+Process 10 arrived.
+Process 7 waking up process 15.
+thread 1 => After Barrier final priv= 1
+Process 12 arrived.
+Total for 4 barriers for Process 1 = 0:61154
+Process 3 reached barrier 4.
+Process 3 = 0:730
+Process 4 arrived.
+thread 1 => After Barrier final priv= 1
+Total for 4 barriers for Process 2 = 0:59401
+Process 5 waking up process 11.
+Process 11 reached barrier 4.
+Process 8 = 0:727
+Total for 4 barriers for Process 8 = 0:57384
+Process 6 arrived.
+Process 3 waking up process 7.
+Total for 4 barriers for Process 13 = 0:54203
+Process 4 waking up process 10.
+Process 10 reached barrier 4.
+Process 15 reached barrier 3.
+Process 14 arrived.
+Process 5 waking up process 12.
+Process 12 reached barrier 4.
+Total for 4 barriers for Process 3 = 0:61203
+Process 1 waking up process 4.
+Process 5 arrived.
+Process 11 = 0:727
+Total for 4 barriers for Process 11 = 0:59289
+Process 2 waking up process 6.
+Process 7 reached barrier 4.
+Process 7 = 0:727
+Total for 4 barriers for Process 7 = 0:61187
+Process 10 = 0:727
+Total for 4 barriers for Process 10 = 0:56517
+Process 15 = 0:696
+Process 6 waking up process 14.
+Process 14 reached barrier 4.
+Process 12 = 0:725
+Total for 4 barriers for Process 12 = 0:55141
+Process 4 reached barrier 4.
+Process 4 = 0:721
+Total for 4 barriers for Process 4 = 0:57771
+Process 2 waking up process 5.
+Process 6 reached barrier 4.
+Process 6 = 0:721
+thread 1 => Hello World 
+thread 1 => Before Barrier pub= 4
+Process 14 = 0:722
+Total for 4 barriers for Process 14 = 0:49041
+Process 5 reached barrier 4.
+Process 5 = 0:722
+Total for 4 barriers for Process 5 = 0:57468
+Total for 4 barriers for Process 6 = 0:57625
+thread 0 => Hello World 
+thread 0 => Before Barrier pub= 4
+thread 0 => After Barrier final pub= 4
+thread 1 => After Barrier final pub= 4
+thread 1 => After Barrier final priv= 1
+thread 0 => After Barrier final priv= 0
+Process 15 arrived.
+Process 7 waking up process 15.
+Process 15 reached barrier 4.
+Process 15 = 0:699
+Total for 4 barriers for Process 15 = 0:61427
